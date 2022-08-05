@@ -16,5 +16,8 @@ int main() {
     int y = 10;
     int sum = x + y;
     cout << sum;
+    int a = 5, b = 6, c = 50;
+    cout << a + b + c << endl;
+    
 
 }

@@ -20,4 +20,3 @@ cout << "" allows you to print strings. All functions must end in a ;
 \t horizontal tab 
 \\ inserts a \ 
 \"\" inserts speech marks around a word when being printed */
-// hi
